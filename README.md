@@ -35,3 +35,23 @@
 
 Добавлен Lesson30. Небезопасный код (unsafe code) и указатели.
 
+Trie-master.	Префиксное дерево или бор (trie)
+
+LinkedListCodeblog-master.	Связный список (linked list)
+
+BinarySearchTree-master.	Бинарное дерево (binary search tree, BST)
+
+CodeBlogStack-master.	Стек (stack)
+
+CodeblogHashtable-master.	Хеш таблица (Hash Table)
+
+CodeblogMap-master.	Словарь C# (Map или Dictionary)
+
+CodeblogQueue-master.	Очередь, Дек (Queue, Deque)
+
+CodeblogSet-master.	Множество (Set)
+
+Graph.	Графы сделал
+
+Heap-master. Двоичная куча (binary heap), очередь с приоритетом, сортировка кучей
+
