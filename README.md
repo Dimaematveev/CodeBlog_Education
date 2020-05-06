@@ -1,6 +1,6 @@
 # CodeBlog_Education
-Обучение из CodeBlog
-Задание CodeBlog
+Обучение из CodeBlog. Задание CodeBlog
+
 Добавлен Lesson11. Перегрузка операторов (operator).
 
 Добавлен Lesson12. Обобщения или шаблоны (Generic).
